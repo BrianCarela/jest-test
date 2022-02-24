@@ -1,0 +1,22 @@
+{
+  "name": "bright-shiny-objects",
+  "version": "1.0.0",
+  "description": "In this assignment we'll be working with objects! Objects are a way to group data together in key-value pairs.",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ci-wdi-900/bright-shiny-objects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ci-wdi-900/bright-shiny-objects/issues"
+  },
+  "homepage": "https://github.com/ci-wdi-900/bright-shiny-objects#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
